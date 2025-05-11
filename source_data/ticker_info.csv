@@ -1,0 +1,201 @@
+name,id,sector
+SK Telecom,17670,Communication_Services
+Cheil Worldwide,30000,Communication_Services
+KT,30200,Communication_Services
+LG Uplus,32640,Communication_Services
+Naver,35420,Communication_Services
+Kakao,35720,Communication_Services
+NCSoft,36570,Communication_Services
+Netmarble,251270,Communication_Services
+Krafton,259960,Communication_Services
+Hybe,352820,Communication_Services
+Hyundai E&C,720,Constructions
+GS E&C,6360,Constructions
+Samsung E&A,28050,Constructions
+Samsung C&T,28260,Constructions
+Daewoo E&C,47040,Constructions
+KEPCO E&C,52690,Constructions
+Hanil Cement,300720,Constructions
+DL E&C,375500,Constructions
+Hankook & Company,240,Consumer_Discretionary
+Kia,270,Consumer_Discretionary
+KG Mobility,3620,Consumer_Discretionary
+Shinsegae,4170,Consumer_Discretionary
+Sebang Global Battery,4490,Consumer_Discretionary
+Hyundai Motor,5380,Consumer_Discretionary
+SL,5850,Consumer_Discretionary
+Hotel Shilla,8770,Consumer_Discretionary
+Hanssem,9240,Consumer_Discretionary
+Youngone Holdings,9970,Consumer_Discretionary
+Hyundai WIA,11210,Consumer_Discretionary
+Hyundai Mobis,12330,Consumer_Discretionary
+Hanon Systems,18880,Consumer_Discretionary
+Coway,21240,Consumer_Discretionary
+Lotte Shopping,23530,Consumer_Discretionary
+Kangwon Land,35250,Consumer_Discretionary
+Hana Tour,39130,Consumer_Discretionary
+Hyundai Department Store,69960,Consumer_Discretionary
+Kumho Tire,73240,Consumer_Discretionary
+Fila,81660,Consumer_Discretionary
+Hansae,105630,Consumer_Discretionary
+Youngone,111770,Consumer_Discretionary
+Grand Korea Leisure,114090,Consumer_Discretionary
+Hankook,161390,Consumer_Discretionary
+Hanjin KAL,180640,Consumer_Discretionary
+DoubleU Games,192080,Consumer_Discretionary
+HL Mando,204320,Consumer_Discretionary
+Iljin Hysolus,271940,Consumer_Discretionary
+F&F,383220,Consumer_Discretionary
+HiteJinro,80,Consumer_Staples
+CJ,1040,Consumer_Staples
+Daesang,1680,Consumer_Staples
+Orion Holdings,1800,Consumer_Staples
+Amorepacific Group,2790,Consumer_Staples
+Samyang Foods,3230,Consumer_Staples
+Nongshim,4370,Consumer_Staples
+Lotte,4990,Consumer_Staples
+Lotte Chilsung,5300,Consumer_Staples
+GS Retail,7070,Consumer_Staples
+Ottogi,7310,Consumer_Staples
+KEPCO,15760,Consumer_Staples
+Dongsuh,26960,Consumer_Staples
+KT&G,33780,Consumer_Staples
+Korea Gas,36460,Consumer_Staples
+LG H&H,51900,Consumer_Staples
+Amorepacific,90430,Consumer_Staples
+CJ CheilJedang,97950,Consumer_Staples
+Emart,139480,Consumer_Staples
+Kolmar Korea,161890,Consumer_Staples
+Cosmax,192820,Consumer_Staples
+Orion,271560,Consumer_Staples
+APR,278470,Consumer_Staples
+Lotte Wellfood,280360,Consumer_Staples
+BGF Retail,282330,Consumer_Staples
+DL,210,Energy_Chemicals
+Hanwha,880,Energy_Chemicals
+KCC,2380,Energy_Chemicals
+Miwon Commercial,2840,Energy_Chemicals
+Taekwang Industrial,3240,Energy_Chemicals
+Lotte Fine Chemical,4000,Energy_Chemicals
+Cosmo Chemical,5420,Energy_Chemicals
+Korea Petrochemical,6650,Energy_Chemicals
+Hanwha Solutions,9830,Energy_Chemicals
+OCI Holdings,10060,Energy_Chemicals
+S-Oil,10950,Energy_Chemicals
+Lotte Chemical,11170,Energy_Chemicals
+Kumho Petrochemical,11780,Energy_Chemicals
+SKC,11790,Energy_Chemicals
+Hansol Chemical,14680,Energy_Chemicals
+SK,34730,Energy_Chemicals
+LG Chem,51910,Energy_Chemicals
+TKG Huchems,69260,Energy_Chemicals
+GS,78930,Energy_Chemicals
+Foosung,93370,Energy_Chemicals
+SK Innovation,96770,Energy_Chemicals
+Kolon Industries,120110,Energy_Chemicals
+PI Advanced Materials,178920,Energy_Chemicals
+HD Hyundai,267250,Energy_Chemicals
+SK Chemicals,285130,Energy_Chemicals
+Hyosung TNC,298020,Energy_Chemicals
+HS Hyosung Advanced Materials,298050,Energy_Chemicals
+OCI,456040,Energy_Chemicals
+Isu Specialty Chemical,457190,Energy_Chemicals
+Samsung Fire & Marine,810,Financials
+Hyundai Marine & Fire,1450,Financials
+DB Insurance,5830,Financials
+NH Investment & Securities,5940,Financials
+Mirae Asset Securities,6800,Financials
+Samsung Securities,16360,Financials
+Industrial Bank of Korea,24110,Financials
+Samsung Card,29780,Financials
+Samsung Life,32830,Financials
+Kiwoom Securities,39490,Financials
+Shinhan Financial,55550,Financials
+Korea Investment,71050,Financials
+Hana Financial,86790,Financials
+Hanwha Life,88350,Financials
+KB Financial,105560,Financials
+Meritz Financial,138040,Financials
+BNK Financial,138930,Financials
+DGB Financial,139130,Financials
+JB Financial,175330,Financials
+Woori Financial,316140,Financials
+KakaoBank,323410,Financials
+KakaoPay,377300,Financials
+Yuhan,100,Health_Care
+Daewoong,3090,Health_Care
+Green Cross Holdings,5250,Health_Care
+Green Cross,6280,Health_Care
+Hanmi Science,8930,Health_Care
+Hanall Biopharma,9420,Health_Care
+Celltrion,68270,Health_Care
+Daewoong Pharmaceutical,69620,Health_Care
+Hanmi Pharm,128940,Health_Care
+SD Biosensor,137310,Health_Care
+Dentium,145720,Health_Care
+Chong Kun Dang,185750,Health_Care
+Samsung Biologics,207940,Health_Care
+SK Bioscience,302440,Health_Care
+SK Biopharm,326030,Health_Care
+Doosan,150,Heavy_Industries
+HD KSOE,9540,Heavy_Industries
+Samsung Heavy Industries,10140,Heavy_Industries
+HD Hyundai Mipo,10620,Heavy_Industries
+Hyundai Elevator,17800,Heavy_Industries
+Doosan Enerbility,34020,Heavy_Industries
+Hanwha Ocean,42660,Heavy_Industries
+HD Hyundai Infracore,42670,Heavy_Industries
+Hyundai Rotem,64350,Heavy_Industries
+CS Wind,112610,Heavy_Industries
+Doosan Bobcat,241560,Heavy_Industries
+HD Hyundai Electric,267260,Heavy_Industries
+Hyosung Heavy Industries,298040,Heavy_Industries
+HD Hyundai Heavy Industries,329180,Heavy_Industries
+Doosan Robotics,454910,Heavy_Industries
+Hanwha Vision,489790,Heavy_Industries
+CJ Logistics,120,Industrials
+LX International,1120,Industrials
+Taihan Cable & Solution,1440,Industrials
+SK Networks,1740,Industrials
+Korean Air,3490,Industrials
+POSCO Future M,3670,Industrials
+LS,6260,Industrials
+LS Electric,10120,Industrials
+HMM,11200,Industrials
+Hanwha Aerospace,12450,Industrials
+S-1,12750,Industrials
+Pan Ocean,28670,Industrials
+POSCO International,47050,Industrials
+Korea Aerospace,47810,Industrials
+KEPCO KPS,51600,Industrials
+L&F,66970,Industrials
+LIG Nex1,79550,Industrials
+Hyundai Glovis,86280,Industrials
+Hanwha Systems,272210,Industrials
+Doosan Fuel Cell,336260,Industrials
+SK IE Technology,361610,Industrials
+LG Energy Solution,373220,Industrials
+Ecopro Materials,450080,Industrials
+SK Hynix,660,IT
+LG,3550,IT
+Cosmo AM&T,5070,IT
+Samsung Electronics,5930,IT
+Samsung SDI,6400,IT
+Samsung Electro-Mechanics,9150,IT
+LG Innotek,11070,IT
+Samsung SDS,18260,IT
+POSCO DX,22100,IT
+LG Display,34220,IT
+Hanmi Semiconductor,42700,IT
+LG Electronics,66570,IT
+SK Square,402340,IT
+Seah Besteel,1430,Steels_Materials
+TCC Steel,2710,Steels_Materials
+Seah Steel Holdings,3030,Steels_Materials
+Hyundai Steel,4020,Steels_Materials
+POSCO,5490,Steels_Materials
+Sama Aluminium,6110,Steels_Materials
+Youlchon Chemical,8730,Steels_Materials
+Korea Zinc,10130,Steels_Materials
+Dongwon Systems,14820,Steels_Materials
+Poongsan,103140,Steels_Materials
