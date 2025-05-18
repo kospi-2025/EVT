@@ -1,7 +1,7 @@
 # EVT
 Supplementary material
 
-- [code]logDD.ipynb : logDD를 만든다. &rarr; 결과물 : [csv]lodDD.csv
+- [code]logDD.ipynb : logDD를 만든다. &rarr; 결과물 : [csv]logDD.csv
 - [code]LMO.ipynb : [csv]lodDD.csvD를 기반으로 각 percentile에서 Lmoments를 계산한다. &rarr; [csv]LMO.csv
 - [code]MRL.ipynb : [csv]lodDD.csv를 기반으로 각 percentile에서 mean residual life를 계산한다. &rarr; [csv].MRL.csv
 - [code]LMO_plot.ipynb : [csv]LMO.csv를 기반으로 Hosking diagram을 만든다. &rarr; 결과물 : [plot]hosking_diagrams_all.pdf
